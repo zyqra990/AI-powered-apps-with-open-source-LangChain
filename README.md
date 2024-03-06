@@ -1,7 +1,7 @@
 #  AI-powered-apps-with-open-source-LangChain
 ### Assigment From IBM Advance AI Infitite Learning
 
-Author : Cognitive Class AI
+Author : Sina Nazeri
 
 ### About me
 
