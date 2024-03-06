@@ -4,7 +4,7 @@ from langchain_openai import ChatOpenAI
 
 
 # Mengatur environment variable "OPENAI_API_KEY" dengan OpenAI API key milikmu. ini diperlukan untuk proses autentikasi ke OpenAI API.
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_Opeanai_Kamu"
 
 # Mendefinisikan jenis model 
 gpt3 = ChatOpenAI(model_name="gpt-3.5-turbo" )
